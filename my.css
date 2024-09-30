@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     font-family: Arial, sans-serif;
     background-image: url('education_background.jpg');
@@ -26,3 +27,33 @@ h1 {
     font-size: 16px;
     cursor: pointer;
 }
+=======
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('education_background.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.buttons button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+>>>>>>> e46adc91ca8c8d98e3b7f752ce11103d71da8fba
